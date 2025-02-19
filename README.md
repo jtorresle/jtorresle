@@ -3,7 +3,7 @@
 ## 🚀 Desarrollador de Software | Analista de datos
 
 ### Sobre mí
-Hola, soy **Jorge Andrés Torres Leal**, desarrollador SQL en **Pidgin Contact Solutions**, con experiencia en **Java, SQL y Python (FastAPI,Pandas,Numpy)**. Me apasiona la educación, el análisis de datos y cómo poder entender a la gente a través de ellos. Actualmente, lidero proyectos que combinan tecnología y emprendimiento. 🚀
+Hola, soy **Jorge Andrés Torres Leal**, soy ingeniero de sistemas y computación con experiencia en **Java, SQL y Python (FastAPI,Pandas,Numpy)**. Me apasiona la educación, el análisis de datos y cómo poder entender a la gente a través de ellos. Actualmente, lidero proyectos que combinan tecnología y emprendimiento. 🚀
 
 ### 💼 Experiencia
 - **Desarrollo de Software:** Java, Python, SQL.
